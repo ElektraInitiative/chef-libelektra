@@ -4,7 +4,7 @@ maintainer_email ''
 license 'All Rights Reserved'
 description 'This cookbook configures applications with Elektra.'
 long_description 'Elektra stores configuration in a global, hierarchical key database. It supports seamless integration and introspection by mounting configuration files into the key database. This cookbook configures applications with Elektra.'
-version '0.3.1'
+version '0.4.1'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 issues_url 'https://github.com/ElektraInitiative/chef-libelektra/issues'
 source_url 'https://github.com/ElektraInitiative/chef-libelektra'

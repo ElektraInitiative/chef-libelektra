@@ -1,6 +1,6 @@
 resource_name :kdbmount
 
-property :mountpoint, String, name_property: true, required: true
+property :mountpoint, String, name_property: true
 property :file, String, required: true
 property :plugins, String, required: true
 
